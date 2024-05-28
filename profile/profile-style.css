@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{
+    background-color: black ;
+    font-family: "昭和モダン体", "HG行書体", serif;
+}
+
+#hobby-yellow{
+    color: yellow;
+}
+
+.name-white{
+    color: white;
+}
+
+.hobby-red{
+    color: red;
+}
+
+span{
+    border-bottom: 5px double white ;
+}
+
+
+
