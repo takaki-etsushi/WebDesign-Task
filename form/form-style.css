@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+a{
+    font-size: 0.7rem;
+}
+
+.form-group{
+    margin-bottom: 0.5rem;
+}
+
+.form-group label{
+    display: inline-block;
+    width: 130px;
+    text-align: left;
+}
+
+input[type="number"]{
+    margin-right: 0.5rem;
+}
+
+input[type="radio"]{
+    margin-right: 0.5rem;
+}
+
+input[type="checkbox"]{
+    margin-right: 0.5rem;
+}
+
+#gender{
+    display: inline-block;
+    width: 130px;
+    text-align: left;
+}
+
+fieldset{
+    margin: 1rem;
+}
